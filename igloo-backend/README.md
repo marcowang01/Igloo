@@ -3,7 +3,7 @@
 This is the Backend repo built with Laravel (PHP) for Igloo.
 
 ## My Code
-1. [User Space Controller](/app/Http/Controllers/SpaceController.php)
+1. [User Space Controller](./app/Http/Controllers/SpaceController.php)
 2. [Analytics Controller](/app/Http/Controllers/AnalyticsController.php)
 3. [Channel Controller](/app/Http/Controllers/ChannelController.php)
 4. [Space Model](/app/Models/Space.php)
